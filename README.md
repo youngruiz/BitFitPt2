@@ -1,10 +1,10 @@
-# Android Project 6 - *Name of App Here*
+# Android Project 6 - *BitFitPt2*
 
-Submitted by: **Your Name Here**
+Submitted by: **Daniel Ruiz**
 
-**Name of your app** is a health metrics app that allows users to track ... [TODO] 
+**BitFitPt2** is a health metrics app that allows users to track exercise sessions.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -27,10 +27,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/youngruiz/BitFitPt2/blob/Main/BitFit-Pt2_demo.gif' title='Video Walkthrough' />
+<!-- <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [LiceCAP](https://www.cockos.com/licecap/)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -38,11 +39,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Only really got the bottom nav bar in. Had a tough time refactoring existing screens to add fragments.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2022 Daniel Ruiz
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
