@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BitFit-Pt1</string>
+    <string name="workout_tab_name">Workouts</string>
+    <string name="dashboard_tab_name">Dashboard</string>
 </resources>
